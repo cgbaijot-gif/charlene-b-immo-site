@@ -1,8 +1,8 @@
 export default function Header() {
   return (
-    <header className="w-full py-6 bg-white shadow-sm">
-      <div className="max-w-5xl mx-auto px-4">
-        <h2 className="text-xl font-bold text-or">Charlene B Immobilier</h2>
+    <header style={{ width: "100%", padding: "24px 0", background: "white", boxShadow: "0 1px 4px rgba(0,0,0,0.08)" }}>
+      <div style={{ maxWidth: "900px", margin: "0 auto", padding: "0 16px" }}>
+        <h2 style={{ fontSize: "20px", fontWeight: "bold", color: "#C89B4F" }}>Charlene B Immobilier</h2>
       </div>
     </header>
   );
