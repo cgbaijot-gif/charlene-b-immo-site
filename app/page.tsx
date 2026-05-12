@@ -14,7 +14,7 @@ export default function Home() {
       </p>
 
       <p style={{ marginTop: "30px", fontSize: "20px", color: "#C89B4F" }}>
-        📞 06 77 10 57 01
+        📞 06 00 00 00 00
       </p>
     </main>
   );
