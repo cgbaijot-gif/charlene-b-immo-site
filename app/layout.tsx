@@ -1,3 +1,5 @@
+import './globals.css'
+
 export const metadata = {
   title: "Charlene B Immobilier – Immobilier Premium & Gestion Locative",
   description:
